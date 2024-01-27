@@ -2,7 +2,7 @@
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=1000&random=false&width=435&lines=Hello+Everyone;My+name's+Mohamed;Full-Stack+web+developer!;Software+En.+Intern+%40ALX_africa)](https://git.io/typing-svg)
 
-## <b>`Let's Connect`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
+## <b>`Let's Connect`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="90">
 <p > 
 <p align="left">
 <a href="https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw
