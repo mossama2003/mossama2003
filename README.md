@@ -1,6 +1,6 @@
 # Mohamed Osama
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=1000&random=false&width=435&lines=Hello+Everyone;My+name's+Mohamed;Full-Stack+web+developer!;Software+En.+Intern+%40ALX_africa)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=200&background=FF000000&center=true&multiline=true&random=false&width=435&height=135&lines=Welcome+to+my+GitHub.!;My+name's+Mohamed%2C;I'm+a+Flutter+Developer%2C;and+Software+En.+intern+%40ALX_Africa%2C;I'm+happy+to+see+you+on+my+GitHub.)](https://git.io/typing-svg)
 
 ## <b>`Let's Connect`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
 <p > 
