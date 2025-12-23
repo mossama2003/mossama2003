@@ -2,8 +2,8 @@
 ### Flutter Developer | Clean Architecture | CI/CD | AI Integration
 
 Flutter Developer with 3+ years of hands-on experience building scalable, production-ready mobile applications.  
-Specialized in Flutter, Dart, Bloc/Cubit, Clean Architecture, and CI/CD pipelines.  
-Experienced in delivering real-world applications across healthcare, AI-powered solutions, and service platforms.
+Specialized in Flutter, Dart, Bloc/Cubit, and Clean Architecture, with strong experience in CI/CD pipelines and automated testing.  
+Delivered real-world mobile solutions across healthcare, AI-powered systems, and service-based platforms.
 
 ---
 
@@ -15,38 +15,39 @@ Experienced in delivering real-world applications across healthcare, AI-powered 
 - **APIs & Networking:** REST APIs, Dio, JSON Serialization  
 - **Database & Storage:** Firebase, Firestore, Realtime DB, Sqflite, Shared Preferences  
 - **Testing:** Unit, Widget, Integration Testing  
-- **DevOps:** Git, GitHub, Jenkins, CI/CD, FVM  
+- **DevOps & Tooling:** Git, GitHub, Jenkins, CI/CD, FVM  
 
 ---
 
-## 🔹 Featured Projects
+## 🔹 Selected Projects
 ### 🟢 Wazen App
-AI-powered nutrition tracking app with personalized fitness plans  
-- AI-based calorie & macro calculation  
-- Meal logging via image, text, voice & barcode scanning  
+AI-powered nutrition tracking application with personalized fitness plans  
+- AI-based calorie and macronutrient analysis  
+- Meal logging via image, text, voice input, and barcode scanning  
 - Flutter • REST API • AI Integration  
 
 ### 🟢 Sho5l App
 Automation system for reservation workflows  
-- Selenium automation on Linux VM  
-- Scheduled Cron jobs on Google Cloud  
+- Selenium-based automation on Linux VM  
+- Scheduled execution using Cron jobs on Google Cloud  
 - Flutter • REST API • AI  
 
 ### 🟢 Krok App
-Exam preparation app with localization support  
-- Question filtering & result tracking  
-- English / Ukrainian localization  
+Exam preparation mobile application with localization support  
+- Intelligent question filtering and result tracking  
+- Full localization (English / Ukrainian)  
 - Flutter • Cubit • Repository Pattern  
 
-➡️ More projects available in repositories below 👇
+> 🔒 Most of my professional and freelance work is maintained in private repositories due to client confidentiality and NDAs.  
+> Public repositories focus on architecture patterns, demos, and technical experiments.
 
 ---
 
-## 🔹 What I Care About
-- Writing clean, maintainable, and testable code  
-- Building scalable Flutter architectures  
-- Performance optimization & UX  
-- Continuous learning & mentoring junior developers  
+## 🔹 Professional Focus
+- Writing clean, maintainable, and testable Flutter code  
+- Designing scalable and modular mobile architectures  
+- Performance optimization and user experience  
+- Continuous learning and mentoring junior developers  
 
 ---
 
@@ -57,4 +58,4 @@ Exam preparation app with localization support
 
 ---
 
-⭐ If you find my work interesting, feel free to explore my repositories or reach out!
+⭐ Feel free to explore my public repositories or reach out for collaboration opportunities.
