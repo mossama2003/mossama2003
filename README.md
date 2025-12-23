@@ -20,11 +20,25 @@ Delivered real-world mobile solutions across healthcare, AI-powered systems, and
 ---
 
 ## 🔹 Selected Projects
+
+### 🟢 Medication Group App
+Healthcare mobile application for prescription-based medication ordering and delivery  
+- Capture and upload medical prescriptions directly from the app  
+- Order medications with home delivery and order tracking  
+- Discover nearby hospitals and pharmacies based on user location  
+- Flutter • REST API • Image Capture • Maps  
+
 ### 🟢 Wazen App
 AI-powered nutrition tracking application with personalized fitness plans  
 - AI-based calorie and macronutrient analysis  
 - Meal logging via image, text, voice input, and barcode scanning  
 - Flutter • REST API • AI Integration  
+
+### 🟢 Izemak App
+Event invitation application for creating and sharing customized invitations  
+- Multiple event types with dynamic invitation templates  
+- WhatsApp-based invitation sharing  
+- Flutter • REST API  
 
 ### 🟢 Sho5l App
 Automation system for reservation workflows  
