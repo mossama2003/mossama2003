@@ -1,17 +1,60 @@
 # Mohamed Osama
+### Flutter Developer | Clean Architecture | CI/CD | AI Integration
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=200&background=FF000000&center=true&multiline=true&random=false&width=1035&height=180&lines=Welcome+to+my+GitHub.!;My+name's+Mohamed%2C;I'm+a+Flutter+Developer%2C;and+Software+En.+intern+%40ALX_Africa%2C;I'm+happy+to+see+you+on+my+GitHub.)](https://git.io/typing-svg)
+Flutter Developer with 3+ years of hands-on experience building scalable, production-ready mobile applications.  
+Specialized in Flutter, Dart, Bloc/Cubit, Clean Architecture, and CI/CD pipelines.  
+Experienced in delivering real-world applications across healthcare, AI-powered solutions, and service platforms.
 
-## <b>`Let's Connect`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
-<p > 
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-osama2003?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9YDjHT0NRAmCRuz9A%2Bf5SQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bestor igbe" height="40" width="50" /></a>
-<a href="https://www.facebook.com/mossama2003?mibextid=kFxxJD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="_besthor" height="40" width="50" /></a>
-<a href="https://www.instagram.com/mo7amedosamaofficial?igsh=b2RiaGlmdW5hMTVm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_besthor" height="40" width="50" /></a>
-<a href="https://twitter.com/mossama350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="besthor7" height="40" width="50" /></a>
-</p>
+---
 
-<hr/>
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVoOWttb3U1c2JvcWYyODJ6ZTd5cHJiZzEzb2R5cXViMWhoMDczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" />
-</div>
+## 🔹 Tech Stack
+- **Languages:** Dart  
+- **Frameworks:** Flutter, Material Design  
+- **State Management:** Bloc / Cubit, Riverpod, Provider  
+- **Architecture:** Clean Architecture, MVVM  
+- **APIs & Networking:** REST APIs, Dio, JSON Serialization  
+- **Database & Storage:** Firebase, Firestore, Realtime DB, Sqflite, Shared Preferences  
+- **Testing:** Unit, Widget, Integration Testing  
+- **DevOps:** Git, GitHub, Jenkins, CI/CD, FVM  
+
+---
+
+## 🔹 Featured Projects
+### 🟢 Wazen App
+AI-powered nutrition tracking app with personalized fitness plans  
+- AI-based calorie & macro calculation  
+- Meal logging via image, text, voice & barcode scanning  
+- Flutter • REST API • AI Integration  
+
+### 🟢 Sho5l App
+Automation system for reservation workflows  
+- Selenium automation on Linux VM  
+- Scheduled Cron jobs on Google Cloud  
+- Flutter • REST API • AI  
+
+### 🟢 Krok App
+Exam preparation app with localization support  
+- Question filtering & result tracking  
+- English / Ukrainian localization  
+- Flutter • Cubit • Repository Pattern  
+
+➡️ More projects available in repositories below 👇
+
+---
+
+## 🔹 What I Care About
+- Writing clean, maintainable, and testable code  
+- Building scalable Flutter architectures  
+- Performance optimization & UX  
+- Continuous learning & mentoring junior developers  
+
+---
+
+## 🔹 Let's Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-osama2003  
+- 💻 GitHub: https://github.com/mossama2003  
+- 📧 Email: mossama370@gmail.com  
+
+---
+
+⭐ If you find my work interesting, feel free to explore my repositories or reach out!
