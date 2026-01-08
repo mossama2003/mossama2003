@@ -19,6 +19,21 @@ Delivered real-world mobile solutions across healthcare, AI-powered systems, and
 
 ---
 
+## 📌 Skills
+
+| Category               | Skills                                                                 |
+|------------------------|------------------------------------------------------------------------|
+| **Languages & Frameworks** | Dart, Flutter                                                        |
+| **State Management**      | BLoC, Cubit, GetX, Provider, Riverpod                                |
+| **Architecture**          | Clean Architecture, MVVM, SOLID, Dependency Injection (GetIt)       |
+| **APIs & Networking**     | REST, GraphQL, DIO, HTTP                                             |
+| **Databases & Storage**   | Firebase Firestore, SQLite, Hive, MySQL                               |
+| **Tools & Collaboration** | Git, GitHub, GitLab, Jira, Trello, Notion, Figma, Postman           |
+| **Testing & CI/CD**       | Unit/Widget/Integration Testing, GitHub Actions, Fastlane, Docker   |
+| **UI / UX**               | Responsive Design, Animations, Lottie                               |
+| **Cloud Services**        | Firebase Auth, FCM, Analytics, Storage                               |
+
+
 ## 🔹 Selected Projects
 
 ### 🟢 Medication Group App
