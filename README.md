@@ -41,7 +41,7 @@ Delivered real-world mobile solutions across healthcare, AI-powered systems, and
 
 ## 💼 Experience
 
-#🏢 **Upwork — Flutter Developer**
+🏢 **Upwork — Flutter Developer**  
 Freelance / Contract | Jan 2025 – Present | Remote  
 Developed and maintained multiple Flutter apps using clean architecture and responsive UI. Automated unit/widget testing and configured CI/CD pipelines with Jenkins to improve stability and delivery.
 
@@ -49,7 +49,7 @@ Developed and maintained multiple Flutter apps using clean architecture and resp
 Part-time | Sep 2024 – Present | Cairo, Maadi  
 Mentored students and junior developers through Flutter workshops, hands-on coding sessions, and technical guidance.
 
-🏢 **Infinity IT Company — Flutter Developer**  
+🏢 **Infinity Group Company — Flutter Developer**  
 Part-time | Jun 2025 – Present | Remote  
 Contributed to smart transportation and AI-powered applications. Implemented scalable Flutter architectures and cross-platform integrations.
 
