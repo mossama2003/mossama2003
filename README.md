@@ -19,29 +19,22 @@ Delivered real-world mobile solutions across healthcare, AI-powered systems, and
 ## 📬 Contact Me
 
 <p align="center">
-
   <a href="https://wa.me/201129304599" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" width="60" height="60"/><br>
-    <sub>WhatsApp</sub>
+    <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohamed-osama2003" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="60" height="60"/><br>
-    <sub>LinkedIn</sub>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mossama2003" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/><br>
-    <sub>GitHub</sub>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mossama370@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="60" height="60"/><br>
-    <sub>Email</sub>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="60" height="60"/>
   </a>
-
 </p>
-
 
 ---
 
