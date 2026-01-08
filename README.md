@@ -16,6 +16,25 @@ Delivered real-world mobile solutions across healthcare, AI-powered systems, and
 
 ---
 
+## 📬 Contact Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-osama2003" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/mossama2003" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="mailto:mossama370@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://wa.me/201129304599" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
 ## 💼 Experience
 
 ### 🏢 **Upwork — Flutter Developer**
@@ -141,22 +160,6 @@ Jobs and news app enabling users to generate sample CVs and browse job listings 
 - Designing scalable and modular mobile architectures  
 - Performance optimization and user experience  
 - Continuous learning and mentoring junior developers  
-
----
-
-## 🔹 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-osama2003" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/mossama2003" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="mailto:mossama370@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
-  </a>
-</p>
 
 ---
 
