@@ -82,36 +82,51 @@ Redesigned UI/UX and improved performance for medical mobile apps. Implemented s
 
 ## 📱 Projects
 
-### 🟢 Medication Group App
+### Medication Group App
 Healthcare mobile application for prescription-based medication ordering and delivery  
 - Capture and upload medical prescriptions directly from the app  
 - Order medications with home delivery and order tracking  
 - Discover nearby hospitals and pharmacies based on user location  
-- Flutter • REST API • Image Capture • Maps  
+- Flutter • REST API • Image Capture • Maps
 
-### 🟢 Wazen App
+---
+
+### Wazen App
 AI-powered nutrition tracking application with personalized fitness plans  
 - AI-based calorie and macronutrient analysis  
 - Meal logging via image, text, voice input, and barcode scanning  
 - Flutter • REST API • AI Integration  
 
-### 🟢 Izemak App
+---
+
+### Izemak App
 Event invitation application for creating and sharing customized invitations  
 - Multiple event types with dynamic invitation templates  
 - WhatsApp-based invitation sharing  
 - Flutter • REST API  
 
-### 🟢 Sho5l App
+---
+
+### Sho5l App
 Automation system for reservation workflows  
 - Selenium-based automation on Linux VM  
 - Scheduled execution using Cron jobs on Google Cloud  
 - Flutter • REST API • AI  
 
-### 🟢 Krok App
+---
+
+### Krok App
 Exam preparation mobile application with localization support  
 - Intelligent question filtering and result tracking  
 - Full localization (English / Ukrainian)  
 - Flutter • Cubit • Repository Pattern  
+
+---
+
+### M6lob
+Jobs and news app enabling users to generate sample CVs and browse job listings from multiple publications.  
+**Platforms:** [PlayStore](https://play.google.com/store/apps/details?id=com.jobs.m6lob&hl=en) | [AppStore](https://apps.apple.com/eg/app/mtlob-%D9%85%D8%B7%D9%84%D9%88%D8%A8/id6499473889)  
+- Flutter • REST API • Job Listings • CV Generator
 
 > 🔒 Most of my professional and freelance work is maintained in private repositories due to client confidentiality and NDAs.  
 > Public repositories focus on architecture patterns, demos, and technical experiments.
