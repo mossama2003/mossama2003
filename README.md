@@ -7,8 +7,6 @@ Delivered real-world mobile solutions across healthcare, AI-powered systems, and
 
 ---
 
----
-
 ## 📌 Tech Stack & Skills
 
 | Category               | Skills                                                                 |
@@ -23,6 +21,21 @@ Delivered real-world mobile solutions across healthcare, AI-powered systems, and
 | **UI / UX**               | Material Design, Responsive Design, Animations, Lottie              |
 | **Cloud Services**        | Firebase Auth, FCM, Analytics, Storage                               |
 
+---
+
+## 🚀 Tech Stack
+
+![Dart](https://skillicons.dev/icons?i=dart)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![GitHub](https://skillicons.dev/icons?i=github)
+![GitLab](https://skillicons.dev/icons?i=gitlab)
+![Jira](https://skillicons.dev/icons?i=jira)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+---
 
 ## 🔹 Selected Projects
 
