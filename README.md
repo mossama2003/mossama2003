@@ -20,16 +20,16 @@ Delivered real-world mobile solutions across healthcare, AI-powered systems, and
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-osama2003" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg?color=0a66c2" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://github.com/mossama2003" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg?color=181717" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="mailto:mossama370@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg?color=d14836" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://wa.me/201129304599" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg?color=25d366" alt="WhatsApp" width="40" height="40"/>
   </a>
 </p>
 
