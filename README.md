@@ -16,38 +16,6 @@ Delivered real-world mobile solutions across healthcare, AI-powered systems, and
 
 ---
 
-## 📌 Tech Stack & Skills
-
-| Category               | Skills                                                                 |
-|------------------------|------------------------------------------------------------------------|
-| **Languages & Frameworks** | Dart, Flutter                                                        |
-| **State Management**      | BLoC, Cubit, GetX, Provider, Riverpod                                |
-| **Architecture**          | Clean Architecture, MVVM, SOLID, Dependency Injection (GetIt)       |
-| **APIs & Networking**     | REST, GraphQL, DIO, HTTP                                             |
-| **Databases & Storage**   | Firebase Firestore, Realtime DB, SQLite, Hive, MySQL                 |
-| **Tools & Collaboration** | Git, GitHub, GitLab, Jira, Trello, Notion, Figma, Postman           |
-| **Testing & CI/CD**       | Unit, Widget, Integration Testing, GitHub Actions, Fastlane, Docker |
-| **UI / UX**               | Material Design, Responsive Design, Animations, Lottie              |
-| **Cloud Services**        | Firebase Auth, FCM, Analytics, Storage                               |
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="60" height="60"/>
-</p>
-
----
-
 ## 💼 Experience
 
 ### 🏢 **Upwork — Flutter Developer**
@@ -77,6 +45,38 @@ Delivered production-ready Flutter apps with complex UI/UX and third-party integ
 ### 🏢 **ALX-Ventures — Flutter Developer**
 Contract | Oct 2024 – Jan 2025 | Remote  
 Redesigned UI/UX and improved performance for medical mobile apps. Implemented secure authentication, profile management, and subscription-based payment systems.
+
+---
+
+## 📌 Skills
+
+| Category               | Skills                                                                 |
+|------------------------|------------------------------------------------------------------------|
+| **Languages & Frameworks** | Dart, Flutter                                                        |
+| **State Management**      | BLoC, Cubit, GetX, Provider, Riverpod                                |
+| **Architecture**          | Clean Architecture, MVVM, SOLID, Dependency Injection (GetIt)       |
+| **APIs & Networking**     | REST, GraphQL, DIO, HTTP                                             |
+| **Databases & Storage**   | Firebase Firestore, Realtime DB, SQLite, Hive, MySQL                 |
+| **Tools & Collaboration** | Git, GitHub, GitLab, Jira, Trello, Notion, Figma, Postman           |
+| **Testing & CI/CD**       | Unit, Widget, Integration Testing, GitHub Actions, Fastlane, Docker |
+| **UI / UX**               | Material Design, Responsive Design, Animations, Lottie              |
+| **Cloud Services**        | Firebase Auth, FCM, Analytics, Storage                               |
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="60" height="60"/>
+</p>
 
 ---
 
