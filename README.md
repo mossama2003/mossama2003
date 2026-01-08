@@ -41,7 +41,7 @@ Delivered real-world mobile solutions across healthcare, AI-powered systems, and
 
 ## 💼 Experience
 
-🏢 **Upwork — Flutter Developer**  
+## 🏢 **Upwork — Flutter Developer**  
 Freelance / Contract | Jan 2025 – Present | Remote  
 Developed and maintained multiple Flutter apps using clean architecture and responsive UI. Automated unit/widget testing and configured CI/CD pipelines with Jenkins to improve stability and delivery.  
 
