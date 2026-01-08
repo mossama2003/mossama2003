@@ -25,15 +25,17 @@ Delivered real-world mobile solutions across healthcare, AI-powered systems, and
 
 ## 🚀 Tech Stack
 
-![Dart](https://skillicons.dev/icons?i=dart)
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![GitHub](https://skillicons.dev/icons?i=github)
-![GitLab](https://skillicons.dev/icons?i=gitlab)
-![Jira](https://skillicons.dev/icons?i=jira)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Figma](https://skillicons.dev/icons?i=figma)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
+</p>
 
 ---
 
