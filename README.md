@@ -7,19 +7,9 @@ Delivered real-world mobile solutions across healthcare, AI-powered systems, and
 
 ---
 
-## 🔹 Tech Stack
-- **Languages:** Dart  
-- **Frameworks:** Flutter, Material Design  
-- **State Management:** Bloc / Cubit, Riverpod, Provider  
-- **Architecture:** Clean Architecture, MVVM  
-- **APIs & Networking:** REST APIs, Dio, JSON Serialization  
-- **Database & Storage:** Firebase, Firestore, Realtime DB, Sqflite, Shared Preferences  
-- **Testing:** Unit, Widget, Integration Testing  
-- **DevOps & Tooling:** Git, GitHub, Jenkins, CI/CD, FVM  
-
 ---
 
-## 📌 Skills
+## 📌 Tech Stack & Skills
 
 | Category               | Skills                                                                 |
 |------------------------|------------------------------------------------------------------------|
@@ -27,10 +17,10 @@ Delivered real-world mobile solutions across healthcare, AI-powered systems, and
 | **State Management**      | BLoC, Cubit, GetX, Provider, Riverpod                                |
 | **Architecture**          | Clean Architecture, MVVM, SOLID, Dependency Injection (GetIt)       |
 | **APIs & Networking**     | REST, GraphQL, DIO, HTTP                                             |
-| **Databases & Storage**   | Firebase Firestore, SQLite, Hive, MySQL                               |
+| **Databases & Storage**   | Firebase Firestore, Realtime DB, SQLite, Hive, MySQL                 |
 | **Tools & Collaboration** | Git, GitHub, GitLab, Jira, Trello, Notion, Figma, Postman           |
-| **Testing & CI/CD**       | Unit/Widget/Integration Testing, GitHub Actions, Fastlane, Docker   |
-| **UI / UX**               | Responsive Design, Animations, Lottie                               |
+| **Testing & CI/CD**       | Unit, Widget, Integration Testing, GitHub Actions, Fastlane, Docker |
+| **UI / UX**               | Material Design, Responsive Design, Animations, Lottie              |
 | **Cloud Services**        | Firebase Auth, FCM, Analytics, Storage                               |
 
 
