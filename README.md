@@ -1,4 +1,9 @@
+<div align="center" style="text-align:center; margin:auto;">
+
 # Hi, I'm Mohamed Osama
+
+</div>
+
 
 <div align="center" style="text-align:center; max-width:700px; margin:auto;">
 ### Flutter Developer | Clean Architecture | CI/CD | AI Integration
