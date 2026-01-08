@@ -67,6 +67,14 @@ Redesigned UI/UX and improved performance for medical mobile apps. Implemented s
 
 ---
 
+## 🔹 Professional Focus
+- Writing clean, maintainable, and testable Flutter code  
+- Designing scalable and modular mobile architectures  
+- Performance optimization and user experience  
+- Continuous learning and mentoring junior developers
+
+---
+
 ## 📌 Skills
 
 | Category               | Skills                                                                 |
@@ -152,14 +160,6 @@ Jobs and news app enabling users to generate sample CVs and browse job listings 
 
 > 🔒 Most of my professional and freelance work is maintained in private repositories due to client confidentiality and NDAs.  
 > Public repositories focus on architecture patterns, demos, and technical experiments.
-
----
-
-## 🔹 Professional Focus
-- Writing clean, maintainable, and testable Flutter code  
-- Designing scalable and modular mobile architectures  
-- Performance optimization and user experience  
-- Continuous learning and mentoring junior developers  
 
 ---
 
