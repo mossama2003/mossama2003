@@ -39,7 +39,31 @@ Delivered real-world mobile solutions across healthcare, AI-powered systems, and
 
 ---
 
-## 🔹 Selected Projects
+## 💼 Experience
+
+🏢 **Upwork — Flutter Developer**  
+Freelance / Contract | Jan 2025 – Present | Remote  
+Developed and maintained multiple Flutter apps using clean architecture and responsive UI. Automated unit/widget testing and configured CI/CD pipelines with Jenkins to improve stability and delivery.
+
+🏢 **ALX Arabia — Community Coach**  
+Part-time | Sep 2024 – Present | Cairo, Maadi  
+Mentored students and junior developers through Flutter workshops, hands-on coding sessions, and technical guidance.
+
+🏢 **Infinity IT Company — Flutter Developer**  
+Part-time | Jun 2025 – Present | Remote  
+Contributed to smart transportation and AI-powered applications. Implemented scalable Flutter architectures and cross-platform integrations.
+
+🏢 **Peacode Company — Flutter Developer**  
+Full-time | Aug 2024 – Mar 2025 | Cairo, Heliopolis  
+Delivered production-ready Flutter apps with complex UI/UX and third-party integrations. Optimized performance using Dio and Cubit, applying MVVM and mentoring junior developers.
+
+🏢 **ALX-Ventures — Flutter Developer**  
+Contract | Oct 2024 – Jan 2025 | Remote  
+Redesigned UI/UX and improved performance for medical mobile apps. Implemented secure authentication, profile management, and subscription-based payment systems.
+
+---
+
+## 📱 Projects
 
 ### 🟢 Medication Group App
 Healthcare mobile application for prescription-based medication ordering and delivery  
