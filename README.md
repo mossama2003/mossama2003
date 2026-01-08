@@ -1,6 +1,6 @@
-<div align="center" style="text-align:center; max-width:700px; margin:auto;">
 # Hi, I'm Mohamed Osama
 
+<div align="center" style="text-align:center; max-width:700px; margin:auto;">
 ### Flutter Developer | Clean Architecture | CI/CD | AI Integration
 
 Flutter Developer with 3+ years of hands-on experience building scalable, production-ready mobile applications.  
