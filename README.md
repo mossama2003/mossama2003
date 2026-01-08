@@ -1,5 +1,5 @@
 # Hi, I'm Mohamed Osama
-<p align="center">
+<div align="center" style="text-align:center; max-width:700px; margin:auto;">
 
 ### Flutter Developer | Clean Architecture | CI/CD | AI Integration
 
@@ -7,7 +7,7 @@ Flutter Developer with 3+ years of hands-on experience building scalable, produc
 Specialized in Flutter, Dart, Bloc/Cubit, and Clean Architecture, with strong experience in CI/CD pipelines and automated testing.  
 Delivered real-world mobile solutions across healthcare, AI-powered systems, and service-based platforms.
 
-</p>
+</div>
 
 ---
 
