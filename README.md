@@ -1,6 +1,6 @@
 <div align="center" style="text-align:center; margin:auto;">
 
-# Hi, I'm Mohamed Osama
+# Hi, I'm Mohamed Osama 👋
 
 </div>
 
