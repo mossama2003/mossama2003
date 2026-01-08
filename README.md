@@ -129,6 +129,8 @@ Jobs and news app enabling users to generate sample CVs and browse job listings 
 
 **Platforms:** [PlayStore](https://play.google.com/store/apps/details?id=com.jobs.m6lob&hl=en) | [AppStore](https://apps.apple.com/eg/app/mtlob-%D9%85%D8%B7%D9%84%D9%88%D8%A8/id6499473889)  
 
+---
+
 > 🔒 Most of my professional and freelance work is maintained in private repositories due to client confidentiality and NDAs.  
 > Public repositories focus on architecture patterns, demos, and technical experiments.
 
