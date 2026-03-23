@@ -1,16 +1,28 @@
-<div align="center" style="text-align:center; margin:auto;">
+<div align="start">
 
-<div align="center" style="max-width:700px; margin:auto; text-align:center;">
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&width=100&height=180&section=header&text=Mohamed%20Osama&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20Clean%20Architecture%20%7C%203%2B%20Years%20Experience&descAlignY=51&descAlign=50" style="width: 100%;"/>
 
-# Hi, I'm Mohamed Osama 👋
+  <!-- Profile Views -->
+  <p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+  </p>
 
-### Flutter Developer | Clean Architecture | CI/CD | AI Integration
+  <!-- Social Badges -->
+  <p align="start">
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  </p>
 
-I am a Flutter Developer with **3+ years of experience** building scalable, production-ready mobile applications.  
-Specialized in **Flutter, Dart, Bloc/Cubit, Clean Architecture**, with strong expertise in **CI/CD pipelines** and **automated testing**.  
-Delivered real-world mobile solutions across **healthcare**, **AI-powered systems**, and **service-based platforms**.
+  <!-- Experience & Skills -->
+- Building scalable, high-performance Flutter apps across **healthcare, AI-powered systems, service platforms**  
+- Ask me about **Flutter · Dart · Bloc/Cubit · Clean Architecture · State Management · CI/CD · Fastlane · GitHub Actions**  
 
----
+</div>
 
 ### ⚡ Skills & Technologies
 
