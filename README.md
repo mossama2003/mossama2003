@@ -1,16 +1,30 @@
 <div align="center" style="text-align:center; margin:auto;">
 
+<div align="center" style="max-width:700px; margin:auto; text-align:center;">
+
 # Hi, I'm Mohamed Osama 👋
 
-</div>
+### Flutter Developer | Clean Architecture | CI/CD | AI Integration
 
-<div align="center" style="text-align:center; max-width:700px; margin:auto;">
+I am a Flutter Developer with **3+ years of experience** building scalable, production-ready mobile applications.  
+Specialized in **Flutter, Dart, Bloc/Cubit, Clean Architecture**, with strong expertise in **CI/CD pipelines** and **automated testing**.  
+Delivered real-world mobile solutions across **healthcare**, **AI-powered systems**, and **service-based platforms**.
 
-### **Flutter Developer | Clean Architecture | CI/CD | AI Integration**
+---
 
-Flutter Developer with 3+ years of hands-on experience building scalable, production-ready mobile applications.  
-Specialized in Flutter, Dart, Bloc/Cubit, and Clean Architecture, with strong experience in CI/CD pipelines and automated testing.  
-Delivered real-world mobile solutions across healthcare, AI-powered systems, and service-based platforms.
+### ⚡ Skills & Technologies
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Bloc-FF4081?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-FF6D00?style=for-the-badge" />
+
+---
+
+### 📊 GitHub Stats
+
+![Mohamed Osama GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
 </div>
 
