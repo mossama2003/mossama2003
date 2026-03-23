@@ -3,9 +3,10 @@
   <!-- Animated Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&width=100&height=180&section=header&text=Mohamed%20Osama&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20Clean%20Architecture%20%7C%203%2B%20Years%20Experience&descAlignY=51&descAlign=50" style="width: 100%;"/>
 
-<p align="start">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=FF6D00&center=true&width=600&lines=Flutter+Developer;Clean+Architecture;CI/CD+Pipelines;AI+Integration" />
-</p>
+  <!-- Typing Animation -->
+  <p align="start">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=FF6D00&center=true&width=600&lines=Flutter+Developer;Clean+Architecture;CI/CD+Pipelines;AI+Integration" />
+  </p>
 
   <!-- Social Badges -->
   <p align="start">
@@ -32,6 +33,26 @@
 <img src="https://img.shields.io/badge/AI-FF6D00?style=for-the-badge" />
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📈 Skills Progress
+
+<p align="start">
+Flutter       <img src="https://progress-bar.dev/80/?title=Flutter&color=02569B&suffix=%25" /><br>
+Dart         <img src="https://progress-bar.dev/75/?title=Dart&color=0175C2&suffix=%25" /><br>
+Bloc/Cubit   <img src="https://progress-bar.dev/70/?title=Bloc&color=FF4081&suffix=%25" /><br>
+CI/CD        <img src="https://progress-bar.dev/65/?title=CI%2FCD&color=00C853&suffix=%25" /><br>
+AI           <img src="https://progress-bar.dev/60/?title=AI&color=FF6D00&suffix=%25" /><br>
+</p>
 
 ### 📊 GitHub Stats
 
