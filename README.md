@@ -1,25 +1,28 @@
-<div align="start">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&width=100&height=180&section=header&text=Mohamed%20Osama&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20Clean%20Architecture%20%7C%203%2B%20Years%20Experience&descAlignY=51&descAlign=50" style="width: 100%;"/>
+  <!-- Name Typing Animation -->
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&color=FF6D00&center=true&width=600&lines=Mohamed+Osama" />
+  </p>
 
-  <!-- Typing Animation -->
-  <p align="start">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=FF6D00&center=true&width=600&lines=Flutter+Developer;Clean+Architecture;CI/CD+Pipelines;AI+Integration" />
+  <!-- Job Typing Animation -->
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=ffffff&center=true&width=600&lines=Flutter+Developer;Clean+Architecture;CI/CD+Pipelines;AI+Integration" />
   </p>
 
   <!-- Social Badges -->
-  <p align="start">
+  <p>
     <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://www.facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-    <a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   </p>
 
   <!-- Experience & Skills -->
-- Building scalable, high-performance Flutter apps across **healthcare, AI-powered systems, service platforms**  
-- Ask me about **Flutter · Dart · Bloc/Cubit · Clean Architecture · State Management · CI/CD · Fastlane · GitHub Actions**  
+  <p align="left">
+  - Building scalable, high-performance Flutter apps across **healthcare, AI-powered systems, service platforms**<br>
+  - Ask me about **Flutter · Dart · Bloc/Cubit · Clean Architecture · State Management · CI/CD · Fastlane · GitHub Actions**
+  </p>
 
 </div>
 
