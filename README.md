@@ -1,23 +1,39 @@
 <div align="center">
 
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&color=FF6D00&center=true&width=600&lines=Mohamed+Osama" />
-  </p>
-  
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=ffffff&center=true&width=600&lines=Flutter+Developer;Clean+Architecture;CI/CD+Pipelines;AI+Integration" />
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&width=100&height=180&section=header&text=Mohamed%20Osama&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20Clean%20Architecture%20%7C%203%2B%20Years%20Experience&descAlignY=51&descAlign=50" style="width: 100%;" />
+
+  <!-- Profile Views -->
+  <p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
   </p>
 
-  <p>
+  <!-- Social Badges -->
+  <p align="center">
     <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
+  <!-- Animated Typing Description -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=ffffff&center=true&width=600&lines=Building+scalable+Flutter+apps;Clean+Architecture+expert;CI/CD+and+automation" />
+  </p>
+
+  <!-- Skills Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bloc-FF4081?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+    <img src="https://img.shields.io/badge/CI/CD-00C853?style=for-the-badge" />
+  </p>
+
+  <!-- Experience & Focus Areas -->
   <p align="left">
-  - Building scalable, high-performance Flutter apps across **healthcare, AI-powered systems, service platforms**<br>
-  - Ask me about **Flutter · Dart · Bloc/Cubit · Clean Architecture · State Management · CI/CD · Fastlane · GitHub Actions**
+  - Building high-performance apps across **healthcare, AI, service platforms, fintech**<br>
+  - Focused on **Flutter · Dart · Bloc/Cubit · Clean Architecture · CI/CD · Fastlane · GitHub Actions**
   </p>
 
 </div>
