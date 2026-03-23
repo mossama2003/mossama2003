@@ -1,7 +1,5 @@
 <div align="start">
 
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&width=100&height=180&section=header&text=Mohamed%20Osama&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20Clean%20Architecture%20%7C%203%2B%20Years%20Experience&descAlignY=51&descAlign=50" style="width: 100%;"/>
 
   <!-- Typing Animation -->
   <p align="start">
