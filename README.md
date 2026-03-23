@@ -1,16 +1,13 @@
 <div align="center">
 
-  <!-- Name Typing Animation -->
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&color=FF6D00&center=true&width=600&lines=Mohamed+Osama" />
   </p>
-
-  <!-- Job Typing Animation -->
+  
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=ffffff&center=true&width=600&lines=Flutter+Developer;Clean+Architecture;CI/CD+Pipelines;AI+Integration" />
   </p>
 
-  <!-- Social Badges -->
   <p>
     <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -18,7 +15,6 @@
     <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
-  <!-- Experience & Skills -->
   <p align="left">
   - Building scalable, high-performance Flutter apps across **healthcare, AI-powered systems, service platforms**<br>
   - Ask me about **Flutter · Dart · Bloc/Cubit · Clean Architecture · State Management · CI/CD · Fastlane · GitHub Actions**
